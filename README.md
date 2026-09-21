@@ -2,15 +2,15 @@
 
 # Merhaba! Ben Zeynep 👋
 
-### Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici
+### Bilgisayar Mühendisi| Yazılım Geliştirici
 
-![Konum](https://img.shields.io/badge/Bursa-Türkiye-blue?style=flat-square&logo=googlemaps&logoColor=white)
+![Konum](https://img.shields.io/badge/Antalya-Türkiye-blue?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
 
 <p>
   Bilgisayar mühendisliği öğrencisiyim. Modern web teknolojileri ve yazılım geliştirme süreçlerine ilgi duyuyorum. <br>
-  Şu anda <b>Angular</b> ve <b>.NET</b> ekosistemi üzerinde projeler geliştirerek kendimi geliştiriyorum.
+
 </p>
 
 ### 🛠 Kullandığım Teknolojiler
