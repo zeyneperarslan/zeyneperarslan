@@ -9,7 +9,7 @@
 ---
 
 <p>
-  Bilgisayar mühendisliği öğrencisiyim. Modern web teknolojileri ve yazılım geliştirme süreçlerine ilgi duyuyorum. <br>
+  Modern web teknolojileri ve yazılım geliştirme süreçlerine ilgi duyuyorum. <br>
 
 </p>
 
